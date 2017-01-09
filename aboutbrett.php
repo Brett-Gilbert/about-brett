@@ -10,4 +10,4 @@
 		<p>I enjoy playing disc golf and spending time with my family and girlfriend. I have 2 dogs named Cocoa and Bailey and a Parrotlet named Petrie.</p>
 		<img src="images/discgolf.jpg" alt="Disc Golf">
 	</body>
-</html
+</html>
